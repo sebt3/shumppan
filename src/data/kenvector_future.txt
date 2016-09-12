@@ -1,0 +1,8 @@
+fps    12
+Title  44
+subTit 28
+Menu   25
+TextC  17
+Credit 20
+Finish 23
+Score  18
